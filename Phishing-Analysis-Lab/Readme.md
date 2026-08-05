@@ -29,13 +29,13 @@ Analyze suspicious URLs and determine whether they are phishing or malicious by 
 
 ## Investigation Samples
 
-| Sample | Status |
-|----------|----------|
-| Sample-01 | Confirmed Phishing |
-| Sample-02 | Confirmed Phishing |
-| Sample-03 | Confirmed Phishing |
-| Sample-04 | Confirmed Phishing |
-| Sample-05 | Confirmed Phishing |
+| Sample | Verdict | Report |
+|--------|---------|--------|
+| [Sample-01](Phishing-Analysis-Lab/Sample-1) | Confirmed Phishing | [Findings](Phishing-Analysis-Lab/Sample-1/07_Final_Findings.md) |
+| [Sample-02](Phishing-Analysis-Lab/Sample-2) | Confirmed Phishing | [Findings](Phishing-Analysis-Lab/Sample-2/07_Final_Findings.md) |
+| [Sample-03](Phishing-Analysis-Lab/Sample-3) | Confirmed Phishing | [Findings](Phishing-Analysis-Lab/Sample-3/07_Final_Findings.md) |
+| [Sample-04](Phishing-Analysis-Lab/Sample-4) | Confirmed Phishing | [Findings](Phishing-Analysis-Lab/Sample-4/07_Final_Findings.md) |
+| [Sample-05](Phishing-Analysis-Lab/Sample-5) | Confirmed Phishing | [Findings](Phishing-Analysis-Lab/Sample-5/07_Final_Findings.md) |
 
 ## Analysis Methodology
 
