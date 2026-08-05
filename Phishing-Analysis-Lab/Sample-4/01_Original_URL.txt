@@ -7,8 +7,3 @@ OpenPhish
 Date:
 05-Aug-2026
 
-Status:
-Pending Investigation
-
-Notes:
-URL identified from phishing intelligence feed and selected for phishing analysis investigation.
