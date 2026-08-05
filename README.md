@@ -60,4 +60,3 @@ Analyze suspicious URLs and determine whether they are phishing or malicious by 
 ## Author
 
 Sairam Koduru
-SOC Analyst
