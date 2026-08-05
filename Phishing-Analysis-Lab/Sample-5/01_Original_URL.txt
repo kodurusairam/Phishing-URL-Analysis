@@ -1,0 +1,9 @@
+URL: hxxps://login.banbenq.com/?Rf9JIC8l4DOPffX1tPDjDyy
+
+Source: OpenPhish
+
+Date: 05-Aug-2026
+
+Status: Pending Investigation
+
+Investigation Type: Phishing URL Analysis
